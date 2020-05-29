@@ -4,7 +4,7 @@
 @import url(./__span-accent/two-columns__span-accent.css);
 
 .two-columns {
-    width: 80%;
-    display: flex;
-    justify-content: space-between;
+  width: 80%;
+  display: flex;
+  justify-content: space-between;
   }

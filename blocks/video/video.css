@@ -3,6 +3,7 @@
 
 .video {
     padding-top: 100px;
+    margin-bottom: -60px;
     display: flex;
     flex-flow: column;
     align-items: center;
