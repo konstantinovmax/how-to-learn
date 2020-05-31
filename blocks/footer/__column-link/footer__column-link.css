@@ -2,3 +2,8 @@
   text-decoration: none;
   color: #ffffff;
   }
+
+.footer__column-link:hover {
+  transition: 0.5s ease;
+  opacity: 0.4;
+  }
