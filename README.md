@@ -14,4 +14,5 @@
 5. Создать форму для комментариев от пользователей
 6. Сделать верстку адаптивной, отзывчивой
 
-### https://konstantinovmax.github.io/how-to-learn/index.html
+### Ссылка на проект:
+#### https://konstantinovmax.github.io/how-to-learn/index.html
